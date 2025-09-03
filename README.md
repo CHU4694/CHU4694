@@ -1,5 +1,5 @@
 
-#  데이터로 보는 서울 <img src="./assets/seoul_mas.png" align=left width=90>
+#  데이터로 보는 서울 <img src="./profile/assets/seoul_mas.png" align=left width=90>
 
 > 서울시 공공 API 기반 실시간 데이터 수집 및 AWS 기반 데이터 파이프라인·대시보드 구축  &nbsp;&nbsp; • <b>Data Engineering</b>
 
@@ -68,7 +68,7 @@
   <!-- 실시간 탭 -->
   <tr>
     <td align="center" valign="top" style="padding: 20px;">
-      <img src="./assets/tab1.gif" width=780 alt="실시간 탭 이미지" /><br><br>
+      <img src="./profile/assets/tab1.gif" width=780 alt="실시간 탭 이미지" /><br><br>
       <p style="max-width: 600px; margin: 0 auto;">
         <strong>✅ 실시간</strong><br>
         실시간 탭은 82개 핫스팟이 위치한 "서울"의 <br>
@@ -80,7 +80,7 @@
   <!-- 주간 탭 -->
   <tr>
     <td align="center" valign="top" style="padding: 20px;">
-      <img src="./assets/tab2.gif" width=780 alt="주간 탭 이미지" /><br><br>
+      <img src="./profile/assets/tab2.gif" width=780 alt="주간 탭 이미지" /><br><br>
       <p style="max-width: 600px; margin: 0 auto;">
         <strong>✅ 주간</strong><br>
         사용자가 드롭다운 리스트에서 특정 장소를 선택하면<br>
@@ -92,7 +92,7 @@
   <!-- 인사이트 탭 -->
   <tr>
     <td align="center" valign="top" style="padding: 20px;">
-      <img src="./assets/tab3.gif" width=780 alt="인사이트 탭 이미지" /><br><br>
+      <img src="./profile/assets/tab3.gif" width=780 alt="인사이트 탭 이미지" /><br><br>
       <p style="max-width: 600px; margin: 0 auto;">
         <strong>✅ 인사이트</strong><br>
         사용자가 필터 조건을 직접 구성하여<br>
@@ -109,7 +109,7 @@
 
 ## Architecture
 
-<img src="./assets/architecture.png" width="1200" />
+<img src="./profile/assets/architecture.png" width="1200" />
 
 
 
