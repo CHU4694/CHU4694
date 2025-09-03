@@ -117,4 +117,4 @@
 
 ## ERD
 
-<img src="./assets/erd.png" width="1200" />
+<img src="./profile/assets/erd.png" width="1200" />
